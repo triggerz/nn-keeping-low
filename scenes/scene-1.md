@@ -1,13 +1,13 @@
 # Config
- - Title: A conflict in your team
+ - Title: Keeping low or speaking up?
  - Image: http://res.cloudinary.com/triggerz/image/upload/v1513594352/Billede1_ls6myi.png
 
 # Description
 
-Description goes here...
+At a joint management meeting for the entire CVP area, your manager's leader, Anita, asks how you - as managers - are experiencing the general mood in the building at the moment. You currently have many frustrated employees due to understaffing, lack of storage space and unexpected downtime. You are experiencing an emerging blame culture instead of collaboration.  However, nobody says anything at the meeting. What do you do?
 
 # Choice
-Text for the first available choice goes here..
+Nothing, like your colleagues. 
 
 # Variables
  - Resources: -1
@@ -16,13 +16,13 @@ Text for the first available choice goes here..
  - Total: round(((Engagement * Output) / 100) - (100 - Resources))
 
 # Feedback
-Feedback for selecting the first choice goes here..
+Since everybody else is choosing this option - why shouldn't you? However, you have current issues that you can share to help shed light on the situation. Next time - don't hesitate: Speak up. 
 
 # Outcome
-Outcome by selecting the first choice goes here..
+X
 
 # Choice
-Second choice text...
+You share the current challenges in your own team. Your colleagues must speak for themselves.
 
 # Variables
  - Resources: -1
@@ -31,15 +31,13 @@ Second choice text...
  - Total: round(((Engagement * Output) / 100) - (100 - Resources))
 
 # Feedback
-Feedback for choosing second choice
-Notice that it can be multiple lines
-
+Speaking up is great as it is important to share your opinions. In this situation you share what you know is going on in your own team. This may help start an important discussion in the group of leaders about the general mood in the building.
 
 # Outcome
-Outcome from choosing the second option
+X
 
 # Choice
-Third choice text
+You express your perception of the general mood in the building - explaining that employees and managers seem frustrated. 
 
 # Variables
  - Resources: -3
@@ -48,14 +46,13 @@ Third choice text
  - Total: round(((Engagement * Output) / 100) - (100 - Resources))
 
 # Feedback
-Third choice feedback
+Speaking up is great. Anita was asking for your opinion. At this moment in time perhaps you should just express current issues and experiences in your own team. That is your expertise and solid knowledge. 
 
 # Outcome
-Third choice outcome
-
+X
 
 # Choice
-Fourth choice text
+You talk to Anita after the meeting in a more private setting and express your perception of the situation. 
 
 # Variables
  - Resources: +0
@@ -64,8 +61,8 @@ Fourth choice text
  - Total: round(((Engagement * Output) / 100) - (100 - Resources))
 
 # Feedback
-Fourth option feedback
+This could be a good option. Make sure to speak up when your opinion is asked for. It's fine if you prefer doing this in a more private setting. However, speaking up during the meeting also enables you to share your opinions within the management team, which could be constructive.
 
 # Outcome
-Fourth option outcome
+X
 
