@@ -1,6 +1,6 @@
 # Config
  - Title: Keeping low or speaking up?
- - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1521496045/stock-photo-close-up-of-human-hand-holding-megaphone-238658914.jpg
+ - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1521578709/shutterstock_238658914_2.jpg
 
 # Description
 
