@@ -16,9 +16,6 @@ Nothing, like your colleagues.
 # Feedback
 Since everybody else is choosing this option - why shouldn't you? However, you have current issues that you can share to help shed light on the situation. Next time - don't hesitate: Speak up. 
 
-# Outcome
-X
-
 # Choice
 You share the current challenges in your own team. Your colleagues must speak for themselves.
 
@@ -29,9 +26,6 @@ You share the current challenges in your own team. Your colleagues must speak fo
 
 # Feedback
 Speaking up is great as it is important to share your opinions. In this situation you share what you know is going on in your own team. This may help start an important discussion in the group of leaders about the general mood in the building.
-
-# Outcome
-X
 
 # Choice
 You express your perception of the general mood in the building - explaining that employees and managers seem frustrated. 
@@ -44,9 +38,6 @@ You express your perception of the general mood in the building - explaining tha
 # Feedback
 Speaking up is great. Anita was asking for your opinion. At this moment in time perhaps you should just express current issues and experiences in your own team. That is your expertise and solid knowledge. 
 
-# Outcome
-X
-
 # Choice
 You talk to Anita after the meeting in a more private setting and express your perception of the situation. 
 
@@ -58,6 +49,4 @@ You talk to Anita after the meeting in a more private setting and express your p
 # Feedback
 This could be a good option. Make sure to speak up when your opinion is asked for. It's fine if you prefer doing this in a more private setting. However, speaking up during the meeting also enables you to share your opinions within the management team, which could be constructive.
 
-# Outcome
-X
 
