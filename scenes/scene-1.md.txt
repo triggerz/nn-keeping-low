@@ -1,5 +1,5 @@
 # Config
- - Title: Keeping low or speaking up?
+ - Title: Do you speak up when asked about the mood by your manager's manager?
  - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1521578709/shutterstock_238658914_2.jpg
 
 # Description
